@@ -8,6 +8,7 @@ This may not be applicable to all. But, I use VSCode to run this code. I'll run 
 - [Visual Studio Code]
 - [Eclipse]
 - [Clone Repository]
+- [Running the Program]
 
 ## Difference between JRE and JDK
 **JDK** stands for **Java Develompent Kit**, it is the full-feature SDK for java. It has the everything the JRE has, but also the compiler **"javac"** and tools like **"javadoc"** and **"jdb"**. It is capable of creating and compiling programs.
@@ -27,4 +28,8 @@ You can clone the repository after you have your IDE:
 ```
 https://github.com/Resonanc3/Java-Socket-Programming.git
 ```
+## Running the Program
+Please note that I am **Not an Expert Programmer** nor have the capability like other programmer. I'm just merely sharing you the steps on how I execute the program. After downloading or cloning the repository. You can place the folder anywhere, just make sure that your IDE would find the location of the program. For this part, I will show you how I execute the program in **Visual Studio Code** IDE.
 
+**1:**
+Make sure that your explorer in **Visual Studio Code** shows the location of where you put the downloaded program. ![image](https://user-images.githubusercontent.com/79844632/164130587-42c218ec-2ce8-431b-b63f-d93aadb5a095.png)
