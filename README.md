@@ -35,7 +35,6 @@ Let's check whether you have installed both JDK and JRE in your computer.
 
 ## **1. (JDK and JRE Version Check)** Open CMD, you can either run it with or without administrator. ![image](https://user-images.githubusercontent.com/79844632/164131168-3a2077ff-c0d9-48ef-bdde-08e751278fc1.png)
 
-<a name="2. (JDK and JRE Version Check)"/>
 ## **2. (JDK and JRE Version Check)** You can type this following command to check if you have installed the Java Runtime Edition.
 ```
 java --version
@@ -57,7 +56,7 @@ Check it for yourself by going to its default location.
 ```
 C:\Program Files\Java
 ```
-if you've installed JDK and JRE but still get an error in inputting the commands from [Step 2](#2. (JDK and JRE Version Check)) or [Step 3]
+if you've installed JDK and JRE but still get an error in inputting the commands from Step 2 or Step 3
 
 ## Running the Program
 Please note that I am **Not an Expert Programmer** nor have the capability like other programmer. I'm just merely sharing you the steps on how I execute the program. After downloading or cloning the repository. You can place the folder anywhere, just make sure that your IDE would find the location of the program. For this part, I will show you how I execute the program in **Visual Studio Code** IDE.
