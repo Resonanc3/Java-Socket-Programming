@@ -2,7 +2,7 @@
 Simple Example of Single and Multi Client in Java Socket Programing. You can find two folders in this repository namely [SingleClient] and [Other_Client_Socket]. The Other_Client_Socket is where the multi-client socket can be found. 
 
 ## Important Notice!!!
-This may not be applicable to all. But, I use VSCode to run this code. I'll run you to some basics before running. If you have these following things, you can skip this process and go to [Usage]
+This may not be applicable to all. But, I use VSCode to run this code. I'll run you to some basics before running. If you have these following things, you can skip this process and go to [Running the Program](#Running_the_program)
 
 - [Program Information](#Program_Information)
 - [Difference between **JRE** and **JDK**](#DiffJreJDk)
