@@ -24,5 +24,7 @@ For alternative IDE, you can use **Eclipse** which is good for java language. Yo
 
 ## Clone Repository
 You can clone the repository after you have your IDE:
-```https://github.com/Resonanc3/Java-Socket-Programming.git```
+```
+https://github.com/Resonanc3/Java-Socket-Programming.git
+```
 
