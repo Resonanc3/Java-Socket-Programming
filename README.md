@@ -4,7 +4,7 @@ Simple Example of Single and Multi Client in Java Socket Programing. You can fin
 ## Important Notice!!!
 This may not be applicable to all. But, I use VSCode to run this code. I'll run you to some basics before running. If you have these following things, you can skip this process and go to [Usage]
 
-- [Program Information](#Program Information)
+- [Program Information](#Program_Information)
 - [Difference between **JRE** and **JDK**]
 - [Visual Studio Code]
 - [Eclipse]
@@ -14,7 +14,7 @@ This may not be applicable to all. But, I use VSCode to run this code. I'll run 
 - [Running Other Program]
 - [Conclusion]
 
-<a name="Program Information"/>
+<a name="Program_Information"/>
 ## Program Information
 This program uses Socket in order for the Client to connect to the Server and communicate. If the program is only capable in single client. The Client's message will echo to the Server, and will echo back to Client.
 If the program is a Multi-Client program. The Clients will communicate with each other, meaning that the message will echo from Clients only who have entered the server. The Server echo if a Client has entered from the Server. It is the same logic from a messaging app such as Messenger, WhatsApp, Telegram, etc.
